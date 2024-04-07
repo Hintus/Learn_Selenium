@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f7eba34-fb30-4963-9f85-d86bffe7a1b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Selenium/2.2/nothing.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/2.3/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/2.3/Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/3.2/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/3.3/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/3.3/test_abs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium/2.2/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/2.2/Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/1.6/Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/1.6/Task5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -45,7 +47,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Python/Test&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Python/SeleniumTest&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
